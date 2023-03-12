@@ -1,5 +1,4 @@
-package net.runelite.client.plugins.autoattackerX;
-
+package net.runelite.client.plugins.autoattackerx;
 
 import net.runelite.api.Client;
 import net.runelite.api.GameObject;

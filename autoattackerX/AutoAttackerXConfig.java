@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.autoattackerX;
+package net.runelite.client.plugins.autoattackerx;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
